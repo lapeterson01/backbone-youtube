@@ -1,0 +1,7 @@
+.videos-container {
+  overflow: auto;
+}
+
+.details {
+  width: 640px;
+}
